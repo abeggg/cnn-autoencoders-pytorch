@@ -1,0 +1,6 @@
+torch==2.7.1
+torchvision==0.22.1
+numpy>=2.2,<3
+pandas>=2.2,<4
+matplotlib>=3.10,<4
+ipython>=9,<10
